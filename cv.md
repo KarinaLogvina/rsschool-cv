@@ -50,3 +50,4 @@ You can see other code examples [here](https://github.com/KarinaLogvina).
 ### English
 According to Streamline certificate I have Intermediate level of language proficiency. (can clearly understand,but have some problems with speaking English)
 
+© 2018
