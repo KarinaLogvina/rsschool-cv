@@ -12,3 +12,9 @@ div.resume {
     font-family: 'Varela Round', sans-serif;
     display: block;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+    float: right;
+}
