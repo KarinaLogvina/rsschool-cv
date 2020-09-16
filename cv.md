@@ -18,9 +18,13 @@ I can:
 
 ### Skills
 - Good communication
-- HTML & CSS
-- MathCad & AutoCad
+- HTML & CSS/Sass
 - JS Basic
+- React
+- Redux
+- Bootstrap
+- Material UI
+- Figma/Sketch/Photoshop
     
 ### Code examples
 ```javascript
@@ -42,6 +46,12 @@ You can see other code examples [here](https://github.com/KarinaLogvina).
 ### Experience
 - 2 years as Junior Researcher at Belarusian State Technological University.
 - Unfortunately, I have no experience in IT.
+
+### Progects
+- [A weather forecast website was developed using multiple api and React/Redux.](https://karinalogvina-fancy-weather.netlify.app/)
+- [English learning platform with games and spaced repetition system (react)](https://rslang-english-logvina.netlify.app/)
+- [Kids game for learning English (vanilla JS).](https://karinalogvina-english-for-kids.netlify.app/)
+- [Virtual keyboard (vanilla JS)](https://karinalogvina.github.io/Virtual-Keyboard/)
 
 ### Education 
 - 2013-2018 Belarusian State Technological University, chemical engineer
